@@ -2,7 +2,7 @@
 
 ### Purpose:
 To illustrate blending images.
-Using a blending algorithm and adding an alpha channel to the image one can blend a smaller image on top of a larger image
+Using a blending algorithm and adding an alpha channel to an image one can blend a smaller image on top of a larger image
 The X and Y coordinates can be any coordinates whether they make it on or off the background image though the Alpha needs
  to be in range of 0 to 1. 0 being no transparency and 1 being full transparency.
   - How to Use:
