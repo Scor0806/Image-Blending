@@ -19,5 +19,5 @@ The X and Y coordinates can be any coordinates whether they make it on or off th
 ### Example: X:1300 Y:10 Alpha 0.0
 ![x1300_y10_alpha0](images/watches_x1300_y10_a0.jpg)
 
-###Example: X:1300 Y:10 Alpha 0.8
+### Example: X:1300 Y:10 Alpha 0.8
 ![x10_y10_alpha0](images/watches_x1300_y10_a8.jpg)
